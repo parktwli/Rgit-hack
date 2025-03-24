@@ -1,7 +1,7 @@
 # Quest-learn
 Visit it at: https://v0-interactive-learning-app-woad.vercel.app/landing
 
-```markdown
+
 # Gamified Learning Quest
 
 A frontend-only, single-page application that transforms your educational journey into an epic quest. Earn XP, level up, collect badges, and immerse yourself in a narrative-driven learning adventure!
